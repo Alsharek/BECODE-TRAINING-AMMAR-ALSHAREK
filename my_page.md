@@ -33,8 +33,4 @@ The things i value th most in team working is :
 3. It's supportive.
 -----
 # GIF
-<<<<<<< HEAD
 ![dr.phil](https://media4.giphy.com/media/3o7qDOUZq9Y21izzW0/giphy.gif?cid=ecf05e47cblf3r9gl3d0sf7ele9lpagwfo65jaffnnynpjsy&rid=giphy.gif&ct=g)
-=======
-![dr.phil](https://media4.giphy.com/media/3o7qDOUZq9Y21izzW0/giphy.gif?cid=ecf05e47cblf3r9gl3d0sf7ele9lpagwfo65jaffnnynpjsy&rid=giphy.gif&ct=g)
->>>>>>> 78be382fbeccd8afa1bf8ba1dd0da4a9315b3580
