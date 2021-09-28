@@ -11,5 +11,7 @@
 ### The Transport Control Protocol (TCP) works with IP to ensure transfer of data is dependable and reliable. This helps to make sure that no packets are lost, packets are reassembled in proper sequence, and there’s no delay negatively affecting the data quality.
 
 
-File reviewed by Daniel Diaz.  
+File reviewed by Daniel Diaz.   
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.qwertee.com%2Fimages%2Fdesigns%2Fproduct-thumbs%2F1519314834-82701-zoom-500x600.jpg&f=1&nofb=1" width=250px>
+
+File also reviewed by Poorani Karunanithi.  
